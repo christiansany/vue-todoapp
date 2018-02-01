@@ -8,12 +8,15 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "sass-loader": "6.0.6",
     "vue": "^2.5.13"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.0-alpha.5",
     "@vue/cli-plugin-eslint": "^3.0.0-alpha.5",
     "@vue/cli-service": "^3.0.0-alpha.5",
+    "css-loader": "0.28.9",
+    "node-sass": "4.7.2",
     "vue-template-compiler": "^2.5.13"
   },
   "vue": {
